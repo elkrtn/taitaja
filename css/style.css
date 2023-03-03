@@ -1,0 +1,24 @@
+:root {
+  --bg: #f2fdff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  background-color: var(--bg);
+  font-family: "Fjalla one", serif;
+}
+
+
+
+.kirjaudu {
+  color: #101935;
+}
+
+.kirjaudu {
+  color:#f2fdff;
+}
